@@ -13,12 +13,12 @@ To run the application locally, follow these steps:
 2) Start the server by running **nodemon app**
 
 ### Features ###
-User Registration and Authentication 
-List Items :  Add the smart phone item you wish to trade 
-Manage Items : Perform CRUD operations on the items - Add/Edit/View/Delete
-Manage Offers : Offer your smart phone to swap / Accept or Reject offers made by others
-Watch List    : Add items to the watchlist
-Profile       : Have a profile to check the user activities such as trade items created, offers made, offers received, watchlist.
+1) User Registration and Authentication 
+2) List Items :  Add the smart phone item you wish to trade 
+3) Manage Items : Perform CRUD operations on the items - Add/Edit/View/Delete
+4) Manage Offers : Offer your smart phone to swap / Accept or Reject offers made by others
+5) Watch List    : Add items to the watchlist
+6) Profile       : Have a profile to check the user activities such as trade items created, offers made, offers received, watchlist.
 
 
 ### Tech Stack ###
