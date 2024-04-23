@@ -1,4 +1,6 @@
-# Pick Your Court #
+# Phone-T Smart Phone Trade App #
+
+![Alt text](public/images/logo.png)
 
 ![Alt text](public/images/trade-phone.png)
 
